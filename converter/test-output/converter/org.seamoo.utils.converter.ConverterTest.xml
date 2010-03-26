@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.seamoo.utils.converter.ConverterTest" failures="0" tests="2" time="0.543" errors="0">
+  <properties/>
+  <testcase name="testElseToStringConverter" time="0.044" classname="org.seamoo.utils.converter.ConverterTest"/>
+  <testcase name="testStringToElseConverter" time="0.0030" classname="org.seamoo.utils.converter.ConverterTest"/>
+</testsuite>

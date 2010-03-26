@@ -1,0 +1,6 @@
+/target/*.*
+/target/
+/*/target/
+/*/test-output/
+.project
+.classpath
